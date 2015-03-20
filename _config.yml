@@ -1,0 +1,24 @@
+# Site settings
+title: Unordinary in ordinaries
+my_name: Eric Pak
+email: erichyp (at) gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Experiments, ideas, opinions
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://epak.github.io" # the base hostname & protocol for your site
+twitter_username: erichyp
+github_username:  epak
+
+# Build settings
+markdown: kramdown
+pygments: true
+
+permalinks: /:year/:month/:day/:title.html
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
