@@ -11,7 +11,7 @@ github_username:  epak
 
 # Build settings
 markdown: kramdown
-pygments: true
+highligher: pygments
 
 permalinks: /:year/:month/:day/:title.html
 
@@ -22,3 +22,6 @@ defaults:
       type: "posts"
     values:
       layout: post
+
+kramdown:
+  input: GFM
