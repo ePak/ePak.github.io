@@ -15,8 +15,8 @@ Updated on Jun 28, 2015
 * Hooked : how to build habit-forming products / Nir Eyal with Ryan Hoover
 * Influence : the psychology of persuasion / Robert B. Cialdini
 * Talk like TED : the 9 public secrets of the world's top minds / Carmine Gallo
-* 10% happier : how I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works--a true story / Dan Harris
-* Getting Things Done: the art of stress-free productivity / David Allen **_in-progress_**
+* 10% happier : how I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works--a true story / Dan Harris [2015-07-03]
+* Getting Things Done: the art of stress-free productivity / David Allen [2015-07-18]
 * User Story Mapping: discover the whole story, build the right product / Jeff Patton with Peter Economy **_in-progress_**
 
 ## Fiction
