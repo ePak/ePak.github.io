@@ -2,7 +2,7 @@
 tags: books, reading
 ---
 
-Updated on Aug 8, 2015
+Updated on Dec 14, 2015
 
 ## Non-fiction
 
@@ -18,12 +18,19 @@ Updated on Aug 8, 2015
 * 10% happier : how I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works--a true story / Dan Harris [2015-07-03]
 * Getting Things Done: the art of stress-free productivity / David Allen [2015-07-18]
 * Contagious: why things catch on / Jonah Berger [2015-07-28]
-* Becoming Steve Jobs: the evolution of a reckless upstart into a visionary leader / Brent Schlender and Rick Tetzeli **_in-progress_**
-* Money Master the Game: 7 Simple Steps to Financial Freedom (audiobook) / Tony Robbins **_in-progress_**
+* Becoming Steve Jobs: the evolution of a reckless upstart into a visionary leader / Brent Schlender and Rick Tetzeli
+* Money Master the Game: 7 Simple Steps to Financial Freedom (audiobook) / Tony Robbins
+* How to win friends and influence people in the digital age / Dale Carnegie
+* Elon Musk : how the billionaire CEO of SpaceX and Tesla is shaping our future / Ashlee Vance
+* The naked CEO : the truth you need to build a big life / Alex Malley
+* Body of work : finding the thread that ties your story together / Pamela Slim **_in-progress_**
+
 
 ## Technical
-* User Story Mapping: discover the whole story, build the right product / Jeff Patton with Peter Economy **_in-progress_**
-* Big Data: Principles and best practices of scalable realtime data systems / Nathan Marz and James Warren **_in-progress_**
+
+* User Story Mapping: discover the whole story, build the right product / Jeff Patton with Peter Economy
+* Big Data: Principles and best practices of scalable realtime data systems / Nathan Marz and James Warren
+* Go Programming Blueprints / Mat Ryer **_in-progress_**
 
 
 ## Fiction
@@ -32,4 +39,5 @@ Updated on Aug 8, 2015
 * Steelheart / Brandon Sanderson
 * The alloy of law : a Mistborn novel / Brandon Sanderson
 * Words of radiance / Brandon Sanderson
-
+* Mitosis / Brandon Sanderson
+* Firefight / Brandon Sanderson
